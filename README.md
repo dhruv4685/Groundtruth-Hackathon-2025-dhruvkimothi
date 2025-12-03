@@ -82,7 +82,35 @@ We rigorously tested the agent against **10 unique edge cases** to ensure enterp
 
 ## 💻 Installation & Setup
 
-### 1. Clone the Repository
-```bash
+
 git clone [https://github.com/dhruv4685/Groundtruth-Hackathon-2025-dhruvkimothi.git](https://github.com/dhruv4685/Groundtruth-Hackathon-2025-dhruvkimothi.git)
 cd Groundtruth-Hackathon-2025-dhruvkimothi
+
+## 2. Install Dependencies
+
+pip install -r requirements.txt
+
+## 3. Generate Enterprise Data
+(Run this script to generate 100+ mock inventory items and User Profiles)
+
+python setup_data.py
+
+## 4. Launch the Agent
+
+streamlit run app.py
+
+📂 Project Structure
+Bash
+
+├── Output/
+│   └── Sample_Execution_Log.pdf  # PDF Transcript of a successful run
+├── Screenshots/
+│   ├── demo_location.png         # Screenshot of Location Logic
+│   └── demo_privacy.png          # Screenshot of PII Redaction
+├── app.py                        # Main Application (Mint Theme + Logic)
+├── setup_data.py                 # Data Generator (Creates Mock Enterprise DB)
+├── store_inventory.csv           # Generated Inventory Database (RAG Source)
+├── user_profile.json             # User Persona Data
+├── logo.png                      # GroundTruth Branding Asset
+├── README.md                     # Documentation
+└── requirements.txt              # Dependencies
