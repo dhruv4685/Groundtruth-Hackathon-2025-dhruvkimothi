@@ -1,0 +1,106 @@
+Product,Category,Price,Stock,Location,Weather_Tag,Offer
+Hot Cocoa,Beverage,4.5,In Stock,Counter,Cold,10% Off (Code: COCOA10)
+Premium Umbrella,Apparel,25.0,Out of Stock,Aisle 1,Rain,None
+Winter Down Jacket,Apparel,150.0,Low Stock (1 left),Aisle 3,Cold,Clearance
+Iced Lemonade,Beverage,3.0,In Stock,Counter,Hot,None
+Rain Boots,Footwear,45.0,In Stock,Aisle 2,Rain,15% Off
+Classic Charger,Apparel,8.62,In Stock,Frozen Section,Neutral,None
+Spicy Headphones,Electronics,36.92,Out of Stock,Counter,Neutral,Member Exclusive
+Travel Charger,Electronics,34.46,Out of Stock,Aisle 3,Neutral,Clearance
+Spicy Coffee,Electronics,153.91,Low Stock (2 left),Aisle 2,Neutral,10% Off
+Vanilla Coffee,Home,99.33,In Stock,Aisle 3,Neutral,Clearance
+Vanilla Water Bottle,Home,105.31,In Stock,Aisle 3,Neutral,10% Off
+Vanilla Towel,Footwear,73.1,In Stock,Aisle 4,Neutral,None
+Budget Scarf,Beverage,40.04,Out of Stock,Aisle 3,Neutral,Clearance
+Premium Scarf,Footwear,74.48,In Stock,Aisle 3,Neutral,Clearance
+Smart Water Bottle,Snacks,149.42,Out of Stock,Counter,Neutral,Member Exclusive
+Travel Tea,Electronics,87.93,In Stock,Checkout Zone,Neutral,Member Exclusive
+Travel Headphones,Footwear,194.94,In Stock,Aisle 2,Neutral,Member Exclusive
+Spicy Charger,Home,21.58,Low Stock (2 left),Frozen Section,Neutral,20% Off
+Organic Chips,Apparel,129.46,Low Stock (2 left),Checkout Zone,Neutral,Member Exclusive
+Smart Towel,Home,85.59,In Stock,Aisle 3,Neutral,Buy 1 Get 1
+Organic Chips,Footwear,32.52,Low Stock (2 left),Aisle 3,Neutral,Buy 1 Get 1
+Spicy Chips,Apparel,56.16,In Stock,Aisle 1,Neutral,None
+Vanilla Charger,Electronics,167.84,In Stock,Counter,Neutral,20% Off
+Classic Towel,Footwear,31.0,Low Stock (2 left),Aisle 4,Neutral,Clearance
+Spicy Scarf,Beverage,32.02,Out of Stock,Aisle 2,Neutral,Member Exclusive
+Spicy Scarf,Electronics,105.08,Low Stock (2 left),Frozen Section,Neutral,Member Exclusive
+Spicy Tea,Apparel,77.59,In Stock,Checkout Zone,Neutral,Clearance
+Spicy Scarf,Home,13.53,In Stock,Aisle 3,Neutral,None
+Premium Chips,Electronics,22.21,Out of Stock,Aisle 2,Neutral,10% Off
+Organic Tea,Snacks,24.03,Out of Stock,Aisle 2,Neutral,20% Off
+Budget Tea,Beverage,71.06,In Stock,Checkout Zone,Neutral,Member Exclusive
+Premium Tea,Snacks,39.44,Low Stock (2 left),Checkout Zone,Neutral,10% Off
+Smart Water Bottle,Footwear,13.11,Low Stock (2 left),Counter,Neutral,10% Off
+Spicy Water Bottle,Electronics,9.42,Out of Stock,Aisle 4,Neutral,10% Off
+Spicy Charger,Beverage,129.07,In Stock,Frozen Section,Neutral,Buy 1 Get 1
+Premium Charger,Home,147.5,Out of Stock,Aisle 3,Neutral,None
+Smart Scarf,Apparel,158.91,In Stock,Aisle 4,Neutral,Member Exclusive
+Smart Chips,Home,173.69,Low Stock (2 left),Aisle 2,Neutral,Member Exclusive
+Organic Water Bottle,Electronics,119.56,Low Stock (2 left),Checkout Zone,Neutral,Buy 1 Get 1
+Smart Towel,Snacks,52.17,In Stock,Aisle 3,Neutral,Clearance
+Travel Tea,Beverage,169.42,In Stock,Counter,Neutral,Member Exclusive
+Organic Scarf,Footwear,124.41,In Stock,Aisle 2,Neutral,Member Exclusive
+Vanilla Water Bottle,Apparel,52.28,In Stock,Aisle 1,Neutral,Clearance
+Travel Chips,Footwear,120.93,Out of Stock,Frozen Section,Neutral,10% Off
+Vanilla Tea,Electronics,149.68,In Stock,Aisle 3,Neutral,None
+Travel Coffee,Home,22.61,Out of Stock,Aisle 1,Neutral,None
+Budget Towel,Footwear,147.5,In Stock,Checkout Zone,Neutral,10% Off
+Budget Scarf,Apparel,52.94,Out of Stock,Checkout Zone,Neutral,None
+Budget Water Bottle,Footwear,115.33,In Stock,Aisle 3,Neutral,10% Off
+Spicy Towel,Snacks,13.6,Low Stock (2 left),Aisle 2,Neutral,10% Off
+Organic Coffee,Footwear,71.41,In Stock,Frozen Section,Neutral,Member Exclusive
+Organic Charger,Home,25.8,In Stock,Counter,Neutral,Buy 1 Get 1
+Classic Headphones,Electronics,90.74,In Stock,Aisle 2,Neutral,Clearance
+Classic Scarf,Footwear,62.5,Low Stock (2 left),Aisle 3,Neutral,Buy 1 Get 1
+Organic Tea,Footwear,116.47,Out of Stock,Aisle 4,Neutral,Member Exclusive
+Vanilla Coffee,Electronics,148.34,In Stock,Aisle 4,Neutral,Buy 1 Get 1
+Spicy Headphones,Apparel,186.88,Low Stock (2 left),Aisle 3,Neutral,10% Off
+Vanilla Chips,Beverage,137.61,Low Stock (2 left),Aisle 2,Neutral,20% Off
+Vanilla Chips,Home,186.44,Out of Stock,Frozen Section,Neutral,Member Exclusive
+Travel Chips,Apparel,184.7,In Stock,Aisle 2,Neutral,None
+Premium Tea,Home,157.94,In Stock,Counter,Neutral,Clearance
+Smart Tea,Footwear,79.02,In Stock,Aisle 1,Neutral,20% Off
+Organic Chips,Beverage,156.9,In Stock,Aisle 4,Neutral,Buy 1 Get 1
+Premium Chips,Footwear,39.56,Low Stock (2 left),Aisle 1,Neutral,Clearance
+Classic Scarf,Apparel,28.26,In Stock,Frozen Section,Neutral,None
+Spicy Tea,Apparel,111.52,Low Stock (2 left),Aisle 4,Neutral,None
+Travel Coffee,Home,161.48,Out of Stock,Aisle 3,Neutral,20% Off
+Classic Scarf,Electronics,125.86,In Stock,Aisle 2,Neutral,Member Exclusive
+Smart Water Bottle,Snacks,171.49,Out of Stock,Counter,Neutral,Clearance
+Organic Water Bottle,Apparel,92.08,In Stock,Frozen Section,Neutral,None
+Budget Towel,Footwear,160.83,In Stock,Aisle 3,Neutral,10% Off
+Classic Water Bottle,Apparel,95.4,In Stock,Checkout Zone,Neutral,None
+Vanilla Headphones,Electronics,162.98,In Stock,Aisle 3,Neutral,Clearance
+Classic Towel,Home,189.6,Out of Stock,Checkout Zone,Neutral,Clearance
+Travel Tea,Snacks,85.29,In Stock,Checkout Zone,Neutral,10% Off
+Organic Towel,Footwear,92.83,In Stock,Frozen Section,Neutral,10% Off
+Spicy Scarf,Apparel,190.96,In Stock,Aisle 4,Neutral,20% Off
+Budget Coffee,Footwear,117.96,In Stock,Aisle 2,Neutral,Buy 1 Get 1
+Travel Scarf,Electronics,49.04,Low Stock (2 left),Checkout Zone,Neutral,10% Off
+Smart Tea,Electronics,133.06,Low Stock (2 left),Aisle 3,Neutral,Member Exclusive
+Smart Charger,Apparel,162.38,Low Stock (2 left),Frozen Section,Neutral,Clearance
+Vanilla Tea,Electronics,86.19,In Stock,Counter,Neutral,Clearance
+Spicy Tea,Apparel,17.49,In Stock,Counter,Neutral,20% Off
+Classic Towel,Snacks,78.17,In Stock,Frozen Section,Neutral,None
+Budget Coffee,Home,41.26,In Stock,Counter,Neutral,10% Off
+Smart Chips,Electronics,148.31,In Stock,Aisle 1,Neutral,None
+Budget Tea,Apparel,80.09,Low Stock (2 left),Aisle 2,Neutral,Member Exclusive
+Premium Tea,Apparel,77.42,Low Stock (2 left),Aisle 1,Neutral,20% Off
+Premium Tea,Snacks,8.21,In Stock,Aisle 3,Neutral,20% Off
+Premium Charger,Beverage,67.84,In Stock,Aisle 2,Neutral,Clearance
+Travel Scarf,Apparel,126.24,In Stock,Aisle 4,Neutral,Buy 1 Get 1
+Classic Tea,Apparel,60.02,Low Stock (2 left),Aisle 3,Neutral,Clearance
+Classic Headphones,Apparel,40.61,In Stock,Aisle 2,Neutral,Clearance
+Vanilla Water Bottle,Electronics,5.19,Out of Stock,Checkout Zone,Neutral,Buy 1 Get 1
+Premium Tea,Home,65.15,In Stock,Aisle 1,Neutral,None
+Smart Scarf,Home,194.69,In Stock,Checkout Zone,Neutral,20% Off
+Vanilla Towel,Beverage,32.18,Out of Stock,Aisle 4,Neutral,Clearance
+Classic Water Bottle,Snacks,151.54,In Stock,Aisle 3,Neutral,10% Off
+Spicy Water Bottle,Beverage,128.92,Low Stock (2 left),Frozen Section,Neutral,20% Off
+Travel Headphones,Snacks,50.21,Out of Stock,Counter,Neutral,Member Exclusive
+Smart Chips,Home,86.46,Low Stock (2 left),Aisle 1,Neutral,None
+Budget Headphones,Home,142.28,In Stock,Aisle 3,Neutral,20% Off
+Organic Headphones,Electronics,23.65,Low Stock (2 left),Aisle 2,Neutral,Buy 1 Get 1
+Budget Scarf,Home,39.04,In Stock,Aisle 3,Neutral,10% Off
+Spicy Scarf,Snacks,27.03,In Stock,Counter,Neutral,Buy 1 Get 1
